@@ -34,6 +34,7 @@ Speakers are asked not to emphasize the astronomical methods or conclusions, but
 - Paul Barrett (GWU)
 - Paul Tiede (CfA)
 
+## [Code of Conduct](https://juliacon.org/2025/coc/)
 
 # Previous Symposia
 ## [Julia in Astronomy & Astrophysics Research 2022](https://www.youtube.com/watch?v=vj1uzilanQI) (Monday, July 25, 2022)
