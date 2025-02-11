@@ -10,7 +10,7 @@ This minisymposium aims to provide researchers in astronomy and astrophysics an 
 - help strengthen the community.
 
 ## How to propose a talk
-To propose a "talk" (25 minutes + 5 minutes for questions) or "lightning talk" (8 minutes + 2 minutes for questions) for this mini-symposium, please follow the directions to submit to [JuliaCon 2025](https://juliacon.org/2025/cfp/).  In the third box labeled "Track (optional)", please select "Julia in Astronomy & Astrophysics Research 2025".  The call for proposals is scheduled to close on January 31st 2025 23:59 (EST).
+To propose a "talk" (25 minutes + 5 minutes for questions) or "lightning talk" (8 minutes + 2 minutes for questions) for this mini-symposium, please follow the directions to submit to [JuliaCon 2025](https://juliacon.org/2025/cfp/).  In the third box labeled "Track (optional)", please select "Julia in Astronomy & Astrophysics Research 2025".  The call for proposals is scheduled to close on February 14 2025 23:59 (EST).
 
 ## Schedule
 - Welcome
