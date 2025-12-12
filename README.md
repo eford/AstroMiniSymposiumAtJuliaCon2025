@@ -17,16 +17,16 @@ To propose a "talk" (25 minutes + 5 minutes for questions) or "lightning talk" (
 -->
 
 
-## Schedule
-- 13:20 [Building an Astronomy Code for VLBI in Julia](https://www.youtube.com/watch?v=iWJX7HOGYN0)([Paul Tiede](https://pretalx.com/juliacon-2025/speaker/KWBFEW/))
+## Schedule w/ links to talks on YouTube
+- 13:20 [Building an Astronomy Code for VLBI in Julia](https://www.youtube.com/watch?v=iWJX7HOGYN0) ([Paul Tiede](https://pretalx.com/juliacon-2025/speaker/KWBFEW/))
 - 13:50 [Astrometry.jl: A Fundamental Julia Package for Astronomy](https://www.youtube.com/watch?v=LblgHIDEjGc) ([Paul Barrett](https://pretalx.com/juliacon-2025/speaker/WPMGSC/))
 - 14:00 [Bayesian Multifrequency Imaging for Radio Astronomy](https://www.youtube.com/watch?v=f0F2CzhHn1Q) ([Erandi Chavez](https://pretalx.com/juliacon-2025/speaker/NAKNDM/))
 - 14:10 [Regularized Maximum Likelihood Methods for Black Hole Imaging](https://www.youtube.com/watch?v=ATCJubds0sU) ([Andy Nilipour](https://pretalx.com/juliacon-2025/speaker/QXXJCA/))
 - 14:20 [Krang.jl: Physics inference from images fo Black Holes](https://www.youtube.com/watch?v=kj5g2frIycI) ([Dominic Chang](https://pretalx.com/juliacon-2025/speaker/7DCMKQ/))
 - 14:50 [Building an End-to-End Spectral Reduction Pipeline for APOGEE](https://www.youtube.com/watch?v=WongWjTc0XQ) ([Andrew Saydjari](https://pretalx.com/juliacon-2025/talk/HYYXTA/))
 - 15:00 [Juggling astro catalogs in Julia: convenience meets performance](https://www.youtube.com/watch?v=KdiuNzmIl2U) ([Alexander (Sasha) Plavin](https://pretalx.com/juliacon-2025/speaker/LUQCLR/))
-- 15:20 [Korg.jl]() ([Adam Wheeler](https://ajwheeler.github.io/))
-- 16:10 [Panel Discussion](https://pretalx.com/juliacon-2025/talk/EWRB37/) (Panelists:  All speakers.  Moderator: [Eric Ford](https://pretalx.com/juliacon-2025/speaker/VFFPB7/))
+- 15:20 [Korg.jl]() ([Adam Wheeler](https://ajwheeler.github.io/)) (waiting for video url)
+- 16:10 [Panel Discussion](https://pretalx.com/juliacon-2025/talk/EWRB37/) (Panelists:  All speakers.  Moderator: [Eric Ford](https://pretalx.com/juliacon-2025/speaker/VFFPB7/)) (waiting for video url)
 
 ## Posters
 - [Working with radio interferometry data: VLBIData and companions](https://juliacon.org/2025/posters/#working_with_radio_interferometry_data_vlbidata_and_companions)  
